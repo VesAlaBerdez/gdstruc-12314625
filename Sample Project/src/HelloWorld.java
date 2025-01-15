@@ -8,9 +8,9 @@ public class HelloWorld {
         System.out.println("Enter your name: ");
 
         // Scan User Input
-        Scanner inputScanner = new Scanner(System.in);
-        String name = inputScanner.nextLine();
+       // Scanner inputScanner = new Scanner(System.in);
+       // String name = inputScanner.nextLine();
 
-        System.out.println("Hello " + name + "!");
+        //System.out.println("Hello " + name + "!");
     }
 }
